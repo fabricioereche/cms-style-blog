@@ -7,7 +7,8 @@ description: let's test this thing...
 ```js
 const Component = props => {
   return {
-    <div>New Component here</div>
+    never: true,
+    beTrue: false
   }
 }
 ```
